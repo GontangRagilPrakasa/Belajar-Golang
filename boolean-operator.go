@@ -9,5 +9,4 @@ func main() {
 
 	var lulus = lulusAbsensi && lulusUJian
 	println(lulus)
-
 }
